@@ -1,5 +1,6 @@
 #  José Vinicius Lira de Araújo 
 
+![Foto Perfl](fotin.jpg)
 
 ##  Contato
 * Telefone : (85) 99607-8796
