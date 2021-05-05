@@ -10,7 +10,7 @@
 * Ensino Medio completo em IFPB do Acre
 
 ## Experiencia 
-[google](http://google.com.br
+[google](http://google.com.br)
 
 Programador na empresa  Pytaia e Soluçoes
 
