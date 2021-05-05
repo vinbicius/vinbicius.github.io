@@ -1,5 +1,6 @@
 #  José Vinicius Lira de Araújo 
 
+![Foto Perfl](fotin.jpg)
 
 ##  Contato
 * Telefone : (85) 99607-8796
@@ -10,7 +11,7 @@
 * Ensino Medio completo em IFPB do Acre
 
 ## Experiencia 
-[google](http://google.com.br
+[google](http://google.com.br)
 
 Programador na empresa  Pytaia e Soluçoes
 
